@@ -1,0 +1,20 @@
+.container {
+    width: 100%;
+    max-width: 900px;
+    margin: 50px auto;
+    padding: 40px;
+    background-color: #f0fff4;
+    border: 2px solid #d8b4f8;
+    border-radius: 20px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    font-family: 'Comic Sans MS', cursive;
+  }
+  
+  
+  .title {
+    font-size: 28px;
+    text-align: center;
+    color: #3f704d;
+    margin-bottom: 30px;
+  }
+  

@@ -1,0 +1,27 @@
+.wrapper {
+    margin-bottom: 30px;
+  }
+  
+  .label {
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+    font-size: 16px;
+    color: #3f704d;
+  }
+  
+  .input {
+    margin-top: 6px;
+    padding: 10px 14px;
+    font-size: 16px;
+    border: 2px solid #d8b4f8;
+    border-radius: 8px;
+    background-color: #fef6ff;
+    transition: border-color 0.3s ease;
+  }
+  
+  .input:focus {
+    border-color: #a855f7;
+    outline: none;
+  }
+  
